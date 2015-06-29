@@ -1,3 +1,16 @@
+body {
+  font-family: "oratorstd";
+  background-color: #599291;
+  margin: 0; }
+
+.container {
+  width: 960px;
+  margin: 0 auto; }
+
+.wrapper {
+  margin: 0;
+  background-color: #599291; }
+
 #header {
   margin: 0;
   width: 100%;
@@ -19,4 +32,4 @@
     display: inline-block;
     margin: 5px; }
 
-/*# sourceMappingURL=header.css.map */
+/*# sourceMappingURL=application.css.map */

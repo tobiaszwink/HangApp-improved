@@ -1,0 +1,18 @@
+body {
+  font-family: "oratorstd";
+  background-color: #599291;
+  margin: 0;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  margin: 0;
+  background-color: #599291;
+}
+
+@import 'header.scss';
+@import 'footer.scss';
