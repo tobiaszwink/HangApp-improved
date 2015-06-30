@@ -1,7 +1,8 @@
 body {
   font-family: "oratorstd";
   background-color: #599291;
-  margin: 0; }
+  margin: 0;
+  height: 650px; }
 
 #header {
   margin: 0;
@@ -37,7 +38,8 @@ body {
 
 .container {
   width: 960px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  height: 425px; }
 
 .wrapper {
   margin: 0;
@@ -63,10 +65,10 @@ body {
     border: 2px solid #000; }
 
 #footer {
-  height: 130px;
+  height: 120px;
   background-color: #3A2A38; }
   #footer p {
-    padding-top: 10px;
+    margin-top: 10px;
     color: #fff;
     text-align: center; }
   #footer ul {
@@ -75,8 +77,10 @@ body {
   #footer ul li {
     background-color: #83617D;
     margin: 0 15px 0 15px;
-    padding: 10px;
+    padding: 7px 15px;
     border-radius: 12px 12px 12px;
     display: inline-block; }
+  #footer .social {
+    height: 85px; }
 
 /*# sourceMappingURL=application.css.map */
