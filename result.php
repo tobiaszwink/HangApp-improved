@@ -17,10 +17,10 @@
     Resultado da Pesquisa:
     <?php
       $search=$_GET['search'];
-      $sql = mysql_query("SELECT * FROM videos WHERE name LIKE '%".$search."%'");
-      $row = mysql_num_rows($sql);
-        if ($row > 0) {
-          while ($linha = mysql_fetch_array($sql)) {
+      $query = "SELECT * FROM videos WHERE name LIKE '%".$search."%'";
+      $sql = mysqli_query($connection ,$query);
+
+          while ($linha = mysqli_fetch_array($sql)) {
             $nome = $linha['name'];
             $tipo = $linha['category'];
             $url  = $linha['url'];
@@ -31,7 +31,6 @@
             </div>
             <?php
           }
-        }
      ?>
   </div>
 
