@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>HangApp</title>
   <link rel="stylesheet" type="text/css" href="css/application.css">
-  <script src="js/application.js"></script>
+  <script src="js/application"></script>
 </head>
 <body>
   <?php

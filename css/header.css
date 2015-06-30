@@ -18,5 +18,16 @@
   #header li {
     display: inline-block;
     margin: 5px; }
+  #header .search {
+    width: 270px;
+    margin-right: 40px;
+    padding: 0;
+    float: right; }
+    #header .search a {
+      float: left; }
+    #header .search input {
+      margin-top: 2px;
+      float: right;
+      width: 220px; }
 
 /*# sourceMappingURL=header.css.map */

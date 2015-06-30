@@ -22,4 +22,18 @@
     display: inline-block;
     margin: 5px;
   }
+  .search {
+    width: 270px;
+    margin-right:40px;
+    padding: 0;
+    float: right;
+    a {
+      float: left;
+    }
+    input {
+      margin-top: 2px;
+      float: right;
+      width: 220px;
+    }
+  }
 }
