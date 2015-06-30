@@ -6,6 +6,10 @@
   #header .container-h {
     width: 960px;
     margin: 0 auto; }
+  #header a {
+    text-decoration: none; }
+  #header a:visited {
+    color: #fff; }
   #header h1 {
     float: left;
     font-size: 3em;

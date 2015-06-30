@@ -7,5 +7,5 @@
     </ul>
 
   </div>
-  <p>© HangApp 2013</p>
+  <p>© HangApp 2015</p>
 </footer>

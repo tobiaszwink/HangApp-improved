@@ -7,6 +7,12 @@
     width: 960px;
     margin: 0 auto;
   }
+  a {
+    text-decoration: none;
+  }
+  a:visited {
+    color: #fff;
+  }
   h1 {
     float: left;
     font-size: 3em;

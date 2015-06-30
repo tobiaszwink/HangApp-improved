@@ -1,6 +1,7 @@
 #footer {
-  height: 120px;
-  background-color: #3A2A38; }
+  background-color: #3A2A38;
+  display: inline-block;
+  width: 100%; }
   #footer p {
     margin-top: 10px;
     color: #fff;

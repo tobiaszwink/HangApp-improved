@@ -17,8 +17,8 @@
       <div class="description">
         <h2>Skateboard em Vídeo</h2>
         <p>
-          Site especializado em todos os tipos de videos,
-          sejam eles profissionais ou amadores. Sempre focando
+          Site especializado em todos os tipos de videos
+          profissionais ou amadores. Sempre focando
           na cultura skateboard.
         </p>
         <button>Entre</button>
