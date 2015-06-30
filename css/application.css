@@ -41,7 +41,8 @@ body {
 
 .wrapper {
   margin: 0;
-  background-color: #599291; }
+  background-color: #599291;
+  height: 410px; }
   .wrapper .container img {
     float: left;
     margin-left: -155px; }
@@ -60,5 +61,22 @@ body {
     height: 30px;
     font-size: 1em;
     border: 2px solid #000; }
+
+#footer {
+  height: 130px;
+  background-color: #3A2A38; }
+  #footer p {
+    padding-top: 10px;
+    color: #fff;
+    text-align: center; }
+  #footer ul {
+    text-align: center;
+    padding-top: 20px; }
+  #footer ul li {
+    background-color: #83617D;
+    margin: 0 15px 0 15px;
+    padding: 10px;
+    border-radius: 12px 12px 12px;
+    display: inline-block; }
 
 /*# sourceMappingURL=application.css.map */

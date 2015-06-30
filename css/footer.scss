@@ -1,0 +1,21 @@
+#footer {
+  height: 130px;
+  background-color: #3A2A38;
+  p {
+    padding-top: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  ul {
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  ul li {
+    background-color: #83617D;
+    margin: 0 15px 0 15px;
+    padding: 10px;
+    border-radius: 12px 12px 12px;
+    display: inline-block;
+  }
+}
