@@ -10,9 +10,15 @@
       </ul>
 
       <form class="search">
-        <a href="#"  onclick="search('block')"><img src="img/icon-search.png"></a>
+        <img src="img/icon-search.png" onclick="search('block')">
         <input type="text" id="busca">
       </form>
     </nav>
   </div>
 </header>
+
+<script type="text/javascript">
+function search (display){
+  document.getElementById("busca").style.display = display;
+}
+</script>

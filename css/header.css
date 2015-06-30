@@ -1,7 +1,7 @@
 #header {
   margin: 0;
   width: 100%;
-  height: 150px;
+  height: 120px;
   background: #3C2C3A; }
   #header .container-h {
     width: 960px;
@@ -28,6 +28,7 @@
     #header .search input {
       margin-top: 2px;
       float: right;
-      width: 220px; }
+      width: 220px;
+      display: none; }
 
 /*# sourceMappingURL=header.css.map */
