@@ -33,8 +33,7 @@ body {
     #header .search input {
       margin-top: 2px;
       float: right;
-      width: 220px;
-      display: none; }
+      width: 220px; }
 
 .container {
   width: 960px;
